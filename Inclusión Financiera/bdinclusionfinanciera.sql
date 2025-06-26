@@ -2,7 +2,7 @@ CREATE DATABASE bdinclusionfinanciera
 GO
 USE bdinclusionfinanciera;
 GO
-
+  
 CREATE TABLE tblUsuario
 (
 ID_Usuario VARCHAR(8) PRIMARY KEY NOT NULL,
